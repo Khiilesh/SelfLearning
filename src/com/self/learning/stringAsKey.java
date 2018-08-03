@@ -5,6 +5,8 @@ import java.util.HashMap;
 
 // Using immutable (String) Vs mutable as key in HashMap
 
+// STRING HASHCODE CACHING
+
 class MyDemo{
 
 @Override
